@@ -57,6 +57,9 @@ ISFP 4w3 495 sp/sx<br>
   Drawings in the canvas so far. I LOVE IT
 </p>
 
+ </a>
+</p>
+
  <img src="30.03.2026_18.28.32_REC.png" alt="Doodle 4" width="150" style="border-radius:8px;"/>
  <p align="center" style="color:#829cc7; font-size:14px;">
    ill always be updating my profile everytime theres a new drawing in my canvas :3
