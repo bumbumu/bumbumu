@@ -44,3 +44,15 @@ ISFP 4w3 495 sp/sx<br>
          height="70"/>
   </a>
 </p>
+
+<!-- Doodle Gallery -->
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+  <img src="https://example.com/doodle1.png" alt="Doodle 1" width="150" style="border-radius:8px;"/>
+  <img src="https://example.com/doodle2.png" alt="Doodle 2" width="150" style="border-radius:8px;"/>
+  <img src="https://example.com/doodle3.png" alt="Doodle 3" width="150" style="border-radius:8px;"/>
+  <img src="https://example.com/doodle4.png" alt="Doodle 4" width="150" style="border-radius:8px;"/>
+</p>
+
+<p align="center" style="color:#829cc7; font-size:14px;">
+  Click an image to see it bigger!
+</p>
