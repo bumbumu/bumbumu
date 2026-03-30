@@ -57,7 +57,6 @@ ISFP 4w3 495 sp/sx<br>
   Drawings in the canvas so far. Im so happy yall actually drew in it
 </p>
 
-
  <p align="center" style="color:#829cc7; font-size:14px;">
    ill always be updating my profile everytime theres a new drawing in the canvas :D 
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
