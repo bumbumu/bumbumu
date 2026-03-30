@@ -47,7 +47,7 @@ ISFP 4w3 495 sp/sx<br>
 
 <!-- Doodle Gallery -->
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
-  <img src="https://example.com/doodle1.png" alt="Doodle 1" width="150" style="border-radius:8px;"/>
+  <img src="30.03.2026_18.31.11_REC.png" alt="Doodle 1" width="150" style="border-radius:8px;"/>
   <img src="https://example.com/doodle2.png" alt="Doodle 2" width="150" style="border-radius:8px;"/>
   <img src="https://example.com/doodle3.png" alt="Doodle 3" width="150" style="border-radius:8px;"/>
   <img src="https://example.com/doodle4.png" alt="Doodle 4" width="150" style="border-radius:8px;"/>
