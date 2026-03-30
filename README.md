@@ -50,9 +50,13 @@ ISFP 4w3 495 sp/sx<br>
   <img src="30.03.2026_18.39.55_REC.png" alt="Doodle 1" width="150" style="border-radius:8px;"/>
   <img src="30.03.2026_18.40.10_REC.png" alt="Doodle 2" width="150" style="border-radius:8px;"/>
   <img src="30.03.2026_18.40.36_REC.png" alt="Doodle 3" width="150" style="border-radius:8px;"/>
-  <img src="30.03.2026_18.28.32_REC.png" alt="Doodle 4" width="150" style="border-radius:8px;"/>
+ 
 </p>
 
 <p align="center" style="color:#829cc7; font-size:14px;">
   Drawings in the canvas so far. I LOVE IT
 </p>
+
+ <img src="30.03.2026_18.28.32_REC.png" alt="Doodle 4" width="150" style="border-radius:8px;"/>
+ <p align="center" style="color:#829cc7; font-size:14px;">
+   ill always be updating my profile everytime theres a new drawing in my canvas :3
