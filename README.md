@@ -50,9 +50,9 @@ ISFP 4w3 495 sp/sx<br>
   <img src="30.03.2026_18.31.11_REC.png" alt="Doodle 1" width="150" style="border-radius:8px;"/>
   <img src="30.03.2026_18.29.48_REC.png" alt="Doodle 2" width="150" style="border-radius:8px;"/>
   <img src="30.03.2026_18.29.05_REC.png" alt="Doodle 3" width="150" style="border-radius:8px;"/>
-  <img src="https://example.com/doodle4.png" alt="Doodle 4" width="150" style="border-radius:8px;"/>
+  <img src="30.03.2026_18.28.32_REC.png" alt="Doodle 4" width="150" style="border-radius:8px;"/>
 </p>
 
 <p align="center" style="color:#829cc7; font-size:14px;">
-  Click an image to see it bigger!
+  Doodles i made :D
 </p>
